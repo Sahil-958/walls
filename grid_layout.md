@@ -19,4 +19,5 @@ Here is a collection of wallpapers:
 | ![Simulation (Black BG)](simulation_black_bg.png) | Simulation (Black BG) | ![Simulation (Custom BG)](simulation_custom_bg.png) | Simulation (Custom BG) | ![Soldier Rope Climbing](soldier_rope_climbing.png) | Soldier Rope Climbing |
 | ![Some Apocalypse City Picture](some_apocolype_city_picture.png) | Some Apocalypse City Picture | ![Some Robot Kinda Face](some_robot_kinda_face.png) | Some Robot Kinda Face | ![Street Scene Evening](stree_scence_evening.png) | Street Scene Evening |
 | ![Text that Flows Over the Head](text_that_flow_over_the_head.png) | Text that Flows Over the Head | ![Theory vs Practice Minimal](theory_vs_practice_minimal.png) | Theory vs Practice Minimal | ![Vader (Dark & Light)](vader_dark_light.jpg) | Vader (Dark & Light) |
-| ![Vim Keybindings](vim_keybindings.png) | Vim Keybindings | | | | |
+| ![Vim Keybindings](vim_keybindings.png) | Vim Keybindings |![Hello Friend](hello_friend.png) | Hello Friend | ![You Wouldn't Download A CAR](you_wouldn't_downlaod_a_car.png) | You Would't Download A Car |
+|![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text||||

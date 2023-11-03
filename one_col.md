@@ -46,3 +46,6 @@
 | ![Theory vs Practice Minimal](theory_vs_practice_minimal.png) | Theory vs Practice Minimal |
 | ![Vader Dark Light](vader_dark_light.jpg) | Vader Dark Light |
 | ![Vim Keybindings](vim_keybindings.png) | Vim Keybindings |
+|![Hello Friend](hello_friend.png) | Hello Friend | 
+|![You Wouldn't Download A CAR](you_wouldn't_downlaod_a_car.png) | You Would't Download A Car |
+|![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text|
