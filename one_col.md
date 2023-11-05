@@ -49,3 +49,5 @@
 |![Hello Friend](hello_friend.png) | Hello Friend | 
 |![You Wouldn't Download A CAR](you_wouldn't_downlaod_a_car.png) | You Would't Download A Car |
 |![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text|
+|![Relax Minimal Text](relax_minimal_text.jpg)|Relax Minimal Text|
+|![Is There Something You should be doing Minimal Text](is_there_something_you_should_be_doing_text_minimal.jpg)| Is There Something You should be doing|

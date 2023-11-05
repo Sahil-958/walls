@@ -20,4 +20,4 @@ Here is a collection of wallpapers:
 | ![Some Apocalypse City Picture](some_apocolype_city_picture.png) | Some Apocalypse City Picture | ![Some Robot Kinda Face](some_robot_kinda_face.png) | Some Robot Kinda Face | ![Street Scene Evening](stree_scence_evening.png) | Street Scene Evening |
 | ![Text that Flows Over the Head](text_that_flow_over_the_head.png) | Text that Flows Over the Head | ![Theory vs Practice Minimal](theory_vs_practice_minimal.png) | Theory vs Practice Minimal | ![Vader (Dark & Light)](vader_dark_light.jpg) | Vader (Dark & Light) |
 | ![Vim Keybindings](vim_keybindings.png) | Vim Keybindings |![Hello Friend](hello_friend.png) | Hello Friend | ![You Wouldn't Download A CAR](you_wouldn't_downlaod_a_car.png) | You Would't Download A Car |
-|![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text||||
+|![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text|![Relax Minimal Text](relax_minimal_text.jpg)|Relax Minimal Text|![Is There Something You should be doing Minimal Text](is_there_something_you_should_be_doing_text_minimal.jpg)| Is There Something You should be doing|
