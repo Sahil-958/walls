@@ -51,3 +51,6 @@
 |![Pentesting Cli Tools](pentesting_cli_tools_startup_text.png)|Pentesting Cli Tools Text|
 |![Relax Minimal Text](relax_minimal_text.jpg)|Relax Minimal Text|
 |![Is There Something You should be doing Minimal Text](is_there_something_you_should_be_doing_text_minimal.jpg)| Is There Something You should be doing|
+|![MonoChromatic Gir](monochromatic_anime_girl.jpg)|MonoChromatic Anime Girl|
+|![Struck in the loop for Enternity](struck_in_the_loop_for_eternity.png)|Struck in the loop for Enternity|
+|![Struck in the loop minimal](struck_in_the_loop_minimal.png)|Struck in the loop for Enternity Minimal
