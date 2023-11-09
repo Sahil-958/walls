@@ -54,3 +54,6 @@
 |![MonoChromatic Gir](monochromatic_anime_girl.jpg)|MonoChromatic Anime Girl|
 |![Struck in the loop for Enternity](struck_in_the_loop_for_eternity.png)|Struck in the loop for Enternity|
 |![Struck in the loop minimal](struck_in_the_loop_minimal.png)|Struck in the loop for Enternity Minimal
+|![Tomorrow Definition](tomorrow_meaning_minimal.png)|Tomorrow Definition|
+|![It's Research](copy_from_another_quote_minimal.png)|Copy from multiple resources is Research|
+|![Internet Explorer Purpous](internet_explorer_purpose.png)|Internet Explorer Purpous|
