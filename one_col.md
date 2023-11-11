@@ -57,3 +57,10 @@
 |![Tomorrow Definition](tomorrow_meaning_minimal.png)|Tomorrow Definition|
 |![It's Research](copy_from_another_quote_minimal.png)|Copy from multiple resources is Research|
 |![Internet Explorer Purpous](internet_explorer_purpose.png)|Internet Explorer Purpous|
+|![Godfather Panada](godfather_panda.png)|Godfather Panda|
+|![Mime Fencing](mime_fencing.png.png)|Mime Fencing|
+|![Minimalist Todo](minimalist_todo.png)|Minimalist Todo|
+|![Censorship](wrost_part_of_cencorship.png)|Censorship|
+|![Simpson Text Humor Minimal](simpson_text_humor_minimal.png)|Simpson Text Humor Minimal|
+|![Death Reaper with Assult Rifle](death_reaper_with_assult_rifel.png)|Death Reaper with Assult Rifle|
+|![May Not Be Aproprite for a wallpaper](may_not_be_aproprite.png)|May Not Be Aproprite for wallapper|
