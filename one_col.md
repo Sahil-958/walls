@@ -64,3 +64,6 @@
 |![Simpson Text Humor Minimal](simpson_text_humor_minimal.png)|Simpson Text Humor Minimal|
 |![Death Reaper with Assult Rifle](death_reaper_with_assult_rifel.png)|Death Reaper with Assult Rifle|
 |![May Not Be Aproprite for a wallpaper](may_not_be_aproprite.png)|May Not Be Aproprite for wallapper|
+|![Astronaut giving ballons](astronaut_giving_baloons.png)|Astronaut Giving Ballons|
+|![Darth Wader minimal](darth_wader_minimal.png)|Darth Wader Minimal|
+|![Light Bulb Suicide](light_bulb_suicide.png)|Light Bulb Suicide
