@@ -28,3 +28,4 @@ Here is a collection of wallpapers:
 |![Astronaut giving ballons](./miminal/astronaut_giving_baloons.png)|Astronaut Giving Ballons|![Darth Wader minimal](./miminal/darth_wader_minimal.png)|Darth Wader Minimal|![Light Bulb Suicide](./miminal/light_bulb_suicide.png)|Light Bulb Suicide|
 |![Love Inapropriate](quotes_and_text/love_inapropriate.png)|Love Inapropritate|![Touch Some Grass](quotes_and_text/touch_some_grass.png)|Touch Some Grass|![Patrick Todo](quotes_and_text/patrik_todo_list.png)
 |![Richard Stallman](stallman_richard_stallman/stallman_grand_theft_gentoo.png)|Grand Theft Gentoo|![Stallman matrix](stallman_richard_stallman/stallman_matrix_background.png)|Richard Stallman|![Saint in church of Emacs](stallman_richard_stallman/stallman_saint.png)|Saint in the church of Emacs|
+|![River](nature/river_flowing_from%20_mountains.png)| River + sunset|
