@@ -73,4 +73,5 @@
 |![Richard Stallman](stallman_richard_stallman/stallman_grand_theft_gentoo.png)|Grand Theft Gentoo|
 |![Stallman matrix](stallman_richard_stallman/stallman_matrix_background.png)|Richard Stallman|
 |![Saint in church of Emacs](stallman_richard_stallman/stallman_saint.png)|Saint in the church of Emacs|
-|![River](nature/river_flowing_from%20_mountains.png)| River + sunset|
+|![River](nature/river_flowing_from_mountains.png)| River + sunset|
+|![Bird](abstract/nordic_theme_brid.png)| Minimal Nordic Theme Bird|
