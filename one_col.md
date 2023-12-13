@@ -75,3 +75,4 @@
 |![Saint in church of Emacs](stallman_richard_stallman/stallman_saint.png)|Saint in the church of Emacs|
 |![River](nature/river_flowing_from_mountains.png)| River + sunset|
 |![Bird](abstract/nordic_theme_brid.png)| Minimal Nordic Theme Bird|
+|![Gruvbox Lady](anime/gruvbox_lady_art_kinda.png)|Gruvbox lady art kinda|
