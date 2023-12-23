@@ -53,7 +53,7 @@
 |![Is There Something You should be doing Minimal Text](quotes_and_text/is_there_something_you_should_be_doing_text_minimal.jpg)| Is There Something You should be doing|
 |![MonoChromatic Gir](anime/monochromatic_anime_girl.jpg)|MonoChromatic Anime Girl|
 |![Struck in the loop for Enternity](quotes_and_text/struck_in_the_loop_for_eternity.png)|Struck in the loop for Enternity|
-|![Struck in the loop minimal](quotes_and_text/struck_in_the_loop_minimal.png)|Struck in the loop for Enternity Minimal
+|![Struck in the loop minimal](quotes_and_text/struck_in_the_loop_for_eternity_minimal.png)|Struck in the loop for Enternity Minimal
 |![Tomorrow Definition](quotes_and_text/tomorrow_meaning_minimal.png)|Tomorrow Definition|
 |![It's Research](quotes_and_text/copy_from_another_quote_minimal.png)|Copy from multiple resources is Research|
 |![Internet Explorer Purpous](quotes_and_text/internet_explorer_purpose.png)|Internet Explorer Purpous|
