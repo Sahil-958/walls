@@ -76,6 +76,10 @@
 |![River](nature/river_flowing_from_mountains.png)| River + sunset|
 |![Bird](abstract/nordic_theme_brid.png)| Minimal Nordic Theme Bird|
 |![Gruvbox Lady](anime/gruvbox_lady_art_kinda.png)|Gruvbox lady art kinda|
+|![f-bomb this shit](miminal/fuck_this_shit.jpeg)| F-bomb this shit |
+|![you are being monitored](unnamed_catgory/sad_truth.png)|you are being monitored|
+|![Street scence](city/sun_street_balconies_arr_suggest_better_name.jpg)|Street blacony sunset -SUGGEST BETTER NAME|
+|![Regx cheatseet](quotes_and_text/regx.png)|Regx cheat sheet ToDo: find more aesthetic one|
 |Below Wallpapers are Stolen From Repo: | [hyprdots](https://github.com/prasanthrangan/hyprdots)|
 |![wallp/Catppuccin-Latte/cat_minimal.jpg](wallp/Catppuccin-Latte/cat_minimal.jpg)|CAT_MINIMAL|
 |![wallp/Catppuccin-Latte/jormungandr.jpg](wallp/Catppuccin-Latte/jormungandr.jpg)|JORMUNGANDR|

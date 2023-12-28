@@ -29,6 +29,8 @@ Here is a collection of wallpapers:
 |![Love Inapropriate](quotes_and_text/love_inapropriate.png)|Love Inapropritate|![Touch Some Grass](quotes_and_text/touch_some_grass.png)|Touch Some Grass|![Patrick Todo](quotes_and_text/patrik_todo_list.png)
 |![Richard Stallman](stallman_richard_stallman/stallman_grand_theft_gentoo.png)|Grand Theft Gentoo|![Stallman matrix](stallman_richard_stallman/stallman_matrix_background.png)|Richard Stallman|![Saint in church of Emacs](stallman_richard_stallman/stallman_saint.png)|Saint in the church of Emacs|
 |![River](nature/river_flowing_from_mountains.png)| River + sunset|![Bird](abstract/nordic_theme_brid.png)| Minimal Nordic Theme Bird|![Gruvbox Lady](anime/gruvbox_lady_art_kinda.png)|Gruvbox lady art kinda|
+|![f-bomb this shit](miminal/fuck_this_shit.jpeg)| F-bomb this shit |![you are being monitored](unnamed_catgory/sad_truth.png)|you are being monitored|![Street scence](city/sun_street_balconies_arr_suggest_better_name.jpg)|Street blacony sunset -SUGGEST BETTER NAME|
+|![Regx cheatseet](quotes_and_text/regx.png)|Regx cheat sheet ToDo: find more aesthetic one|
 
 Below Wallpapers are Stolen From Repo:  [hyprdots](https://github.com/prasanthrangan/hyprdots)
 
