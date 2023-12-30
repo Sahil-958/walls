@@ -67,7 +67,7 @@ Below Wallpapers are Stolen From Repo:  [hyprdots](https://github.com/prasanthra
 |![hyprdots/Tokyo-Night/cat_lofi_cafe.jpg](hyprdots/Tokyo-Night/cat_lofi_cafe.jpg)|Cat_lofi_cafe|![hyprdots/Tokyo-Night/edger_lucy_neon.jpg](hyprdots/Tokyo-Night/edger_lucy_neon.jpg)|Edger_lucy_neon|![hyprdots/Tokyo-Night/lowpoly_street.png](hyprdots/Tokyo-Night/lowpoly_street.png)|Lowpoly_street|
 |![hyprdots/Tokyo-Night/tokyo_pink.png](hyprdots/Tokyo-Night/tokyo_pink.png)|Tokyo_pink|
 
-Below Wallpapers are Stolen From Repo:  [hyprdots](https://github.com/prasanthrangan/hyprdots)
+Below Wallpapers are Stolen From Repo:  [stephan-rabbe dots](https://gitlab.com/stephan-raabe/wallpaper)
 
 | Wallpaper | Name | Wallpaper | Name | Wallpaper | Name |
 |-----------|------|-----------|------|-----------|------|
