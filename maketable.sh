@@ -1,10 +1,19 @@
 #!/bin/bash
 
-walls=$(find "${1}" -type f)
+walls=$(find ${1} -type f -regex ".*\.\(jpg\|jpeg\|png\|gif\|bmp\)" )
+count=0
+
+echo -e "| Wallpaper | Name |\n|-----------|------|"
+
+IFS=$'\n'
+
 for wall in $walls
 do
     basename=$(basename "$wall" | cut -f1 -d'.')
     capitalized_basename="${basename^}"
-    echo "|![$wall]($wall)|$capitalized_basename|"
+    final_name=${capitalized_basename//[_-]/ }
+    link=${wall// /%20}
+    echo "|![$link]($link)|$final_name"
 done
+
 
