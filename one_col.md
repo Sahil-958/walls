@@ -80,7 +80,11 @@
 |![you are being monitored](unnamed_catgory/sad_truth.png)|you are being monitored|
 |![Street scence](city/sun_street_balconies_arr_suggest_better_name.jpg)|Street blacony sunset -SUGGEST BETTER NAME|
 |![Regx cheatseet](quotes_and_text/regx.png)|Regx cheat sheet ToDo: find more aesthetic one|
-|Below Wallpapers are Stolen From Repo: | [hyprdots](https://github.com/prasanthrangan/hyprdots)|
+![unnamed_catgory/creepy_cabin_guy.png](unnamed_catgory/creepy_cabin_guy.png)|Creepy cabin guy
+|![unnamed_catgory/die_lamoo.png](unnamed_catgory/die_lamoo.png)|Die lamoo
+|![unnamed_catgory/samurai.png](unnamed_catgory/samurai.png)|Samurai
+|![unnamed_catgory/bright_orangish_fire_like_city.jpg](unnamed_catgory/bright_orangish_fire_like_city.jpg)|Bright orangish fire like city
+|Below Wallpapers are Sourced From Repo: | [hyprdots](https://github.com/prasanthrangan/hyprdots)|
 |![hyprdots/Catppuccin-Latte/cat_minimal.jpg](hyprdots/Catppuccin-Latte/cat_minimal.jpg)|CAT_MINIMAL|
 |![hyprdots/Catppuccin-Latte/jormungandr.jpg](hyprdots/Catppuccin-Latte/jormungandr.jpg)|JORMUNGANDR|
 |![hyprdots/Catppuccin-Latte/samurai_strike.jpg](hyprdots/Catppuccin-Latte/samurai_strike.jpg)|SAMURAI_STRIKE|
@@ -160,7 +164,7 @@
 |![hyprdots/Tokyo-Night/cat_lofi_cafe.jpg](hyprdots/Tokyo-Night/cat_lofi_cafe.jpg)|CAT_LOFI_CAFE|
 |![hyprdots/Tokyo-Night/edger_lucy_neon.jpg](hyprdots/Tokyo-Night/edger_lucy_neon.jpg)|EDGER_LUCY_NEON|
 |![hyprdots/Tokyo-Night/tokyo_pink.png](hyprdots/Tokyo-Night/tokyo_pink.png)|TOKYO_PINK|
-|Below Wallpapers are Stolen From Repo: | [stephan-rabbe dots](https://gitlab.com/stephan-raabe/wallpaper)|
+|Below Wallpapers are Sourced From Repo: | [stephan-rabbe dots](https://gitlab.com/stephan-raabe/wallpaper)|
 |![stephan_rabbe/3d-tech.jpg](stephan_rabbe/3d-tech.jpg)|3d-tech|
 |![stephan_rabbe/adwaita-d.jpg](stephan_rabbe/adwaita-d.jpg)|Adwaita-d|
 |![stephan_rabbe/adwaita-l.jpg](stephan_rabbe/adwaita-l.jpg)|Adwaita-l|

@@ -30,9 +30,10 @@ Here is a collection of wallpapers:
 |![Richard Stallman](stallman_richard_stallman/stallman_grand_theft_gentoo.png)|Grand Theft Gentoo|![Stallman matrix](stallman_richard_stallman/stallman_matrix_background.png)|Richard Stallman|![Saint in church of Emacs](stallman_richard_stallman/stallman_saint.png)|Saint in the church of Emacs|
 |![River](nature/river_flowing_from_mountains.png)| River + sunset|![Bird](abstract/nordic_theme_brid.png)| Minimal Nordic Theme Bird|![Gruvbox Lady](anime/gruvbox_lady_art_kinda.png)|Gruvbox lady art kinda|
 |![f-bomb this shit](miminal/fuck_this_shit.jpeg)| F-bomb this shit |![you are being monitored](unnamed_catgory/sad_truth.png)|you are being monitored|![Street scence](city/sun_street_balconies_arr_suggest_better_name.jpg)|Street blacony sunset -SUGGEST BETTER NAME|
-|![Regx cheatseet](quotes_and_text/regx.png)|Regx cheat sheet ToDo: find more aesthetic one|
+|![Regx cheatseet](quotes_and_text/regx.png)|Regx cheat sheet ToDo: find more aesthetic one|![unnamed_catgory/die_lamoo.png](unnamed_catgory/die_lamoo.png)|Die lamoo|![unnamed_catgory/samurai.png](unnamed_catgory/samurai.png)|Samurai|
+|![unnamed_catgory/bright_orangish_fire_like_city.jpg](unnamed_catgory/bright_orangish_fire_like_city.jpg)|Bright orangish fire like city|![unnamed_catgory/creepy_cabin_guy.png](unnamed_catgory/creepy_cabin_guy.png)|Creepy cabin guy||
 
-Below Wallpapers are Stolen From Repo:  [hyprdots](https://github.com/prasanthrangan/hyprdots)
+Below Wallpapers are Sourced From Repo:  [hyprdots](https://github.com/prasanthrangan/hyprdots)
 
 | Wallpaper | Name | Wallpaper | Name | Wallpaper | Name |
 |-----------|------|-----------|------|-----------|------|
@@ -67,7 +68,7 @@ Below Wallpapers are Stolen From Repo:  [hyprdots](https://github.com/prasanthra
 |![hyprdots/Tokyo-Night/cat_lofi_cafe.jpg](hyprdots/Tokyo-Night/cat_lofi_cafe.jpg)|Cat_lofi_cafe|![hyprdots/Tokyo-Night/edger_lucy_neon.jpg](hyprdots/Tokyo-Night/edger_lucy_neon.jpg)|Edger_lucy_neon|![hyprdots/Tokyo-Night/lowpoly_street.png](hyprdots/Tokyo-Night/lowpoly_street.png)|Lowpoly_street|
 |![hyprdots/Tokyo-Night/tokyo_pink.png](hyprdots/Tokyo-Night/tokyo_pink.png)|Tokyo_pink|
 
-Below Wallpapers are Stolen From Repo:  [stephan-rabbe dots](https://gitlab.com/stephan-raabe/wallpaper)
+Below Wallpapers are Sourced From Repo:  [stephan-rabbe dots](https://gitlab.com/stephan-raabe/wallpaper)
 
 | Wallpaper | Name | Wallpaper | Name | Wallpaper | Name |
 |-----------|------|-----------|------|-----------|------|
